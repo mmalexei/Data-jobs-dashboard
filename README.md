@@ -34,4 +34,23 @@ Interactive Power BI dashboard providing an overview of the data job market. It 
 
 It also includes salary comparisons across different job titles and a detailed table to explore job demand and compensation.
 
+**Key Insights**
+
+- Job Market: Approximately 479K job postings were analyzed.
+
+- Salary Overview: The overall median yearly salary is $113K, with a median hourly salary of $47.62.
+
+- Salary by Role: Senior Data Scientists have the highest median yearly salary at approximately $156K, followed by Machine Learning Engineers at $155K.
+
+- Job Demand: Data Analysts and Data Engineers account for a significant number of job postings.
+
+- Monthly Trends: Job postings fluctuate throughout the year, reaching their highest point in February (55K) and their lowest in November (14K).
+
 ![Dashboard Page 2](images\drill_through.png)
+
+Detailed drill-through dashboard focused on individual data-related job titles. It provides insights into salary distributions, remote work availability, degree requirements, and health insurance benefits.
+
+The dashboard also explores the global distribution of job postings, recruitment platforms, and employment types.
+
+Tools: Power BI, Data Analysis, Data Visualization.
+
